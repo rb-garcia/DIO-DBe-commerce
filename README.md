@@ -3,7 +3,7 @@ Refinando um projeto conceitual de banco de dados (e-commerce)
 
 Este é um modelo simplificado de um cenário de E-commerce.
 
-Utilizado MySQL Worbench para o desenho do diagrana.
+Utilizado MySQL Worbench para o desenho do diagrama.
 
 O script foi gerado para a base de dados MySQL.
 
