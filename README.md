@@ -13,3 +13,6 @@ Cliente PJ e PF - criado apenas um campo identificador do tipo do cliente, poden
 Pagamento - neste caso, o modelo simplificado permite o cadastro de varios cartões relacionados ao cliente.
 
 Entrega - no modelo, um pedido tem um codigo de rastreio atrelado a cada status da entrega.
+
+# Script
+O script contém algumas instruções simples criadas no SQL/MySQL.
